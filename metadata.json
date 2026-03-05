@@ -1,0 +1,5 @@
+{
+  "name": "云端信笺 (Cloud Letters)",
+  "description": "一个文艺治愈的双向动态信封网页，支持寄信、收信及优雅的信封交互动画。",
+  "requestFramePermissions": []
+}

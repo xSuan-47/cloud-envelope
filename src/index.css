@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;500&family=Ma+Shan+Zheng&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Noto Serif SC", serif;
+  --font-handwriting: "Ma Shan Zheng", cursive;
+  --color-healing-bg: #ffffff;
+  --color-healing-paper: rgba(255, 255, 255, 0.7);
+  --color-healing-accent: #d4c5b9;
+}
+
+body {
+  background-color: var(--color-healing-bg);
+  color: #4a4a4a;
+  font-family: var(--font-serif);
+  overflow-x: hidden;
+}
